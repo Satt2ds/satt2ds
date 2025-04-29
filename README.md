@@ -1,6 +1,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satt2ds&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-**Pronomes:** *She / Her* 🌷
+[![🇧🇷 Versão em Português](https://img.shields.io/badge/lang-pt--br-green)](./README.md) 
+[![🇺🇸 English](https://img.shields.io/badge/lang-en-blue)](./README.en.md) 
+
 
 # ✧･ﾟ: *𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓽𝓱𝓮 𝓬𝓪𝓸𝓽𝓲𝓬 𝓬𝓸𝓻𝓷𝓮𝓻* :･ﾟ✧
 
@@ -9,7 +11,7 @@
 ━━━━━━━━━━━━━━━━━━━━━
 
 ## 🧬 𝘲𝘶𝘦 𝘵𝘢𝘭 𝘶𝘮 𝘱𝘰𝘶𝘤𝘰 𝘥𝘦 𝘢𝘣𝘴𝘶𝘳𝘥𝘰 𝘱𝘳𝘢 𝘤𝘰𝘮𝘦𝘤̧𝘢𝘳?
-
+🌷 **Pronomes:** *She / Her* 
 🥼 Cientista errante em transição constante entre moléculas e códigos  
 🧠 Exploradora de caminhos neuronais, realidades aumentadas e paradoxos não documentados  
 🎮 Criadora de mundos em **Wave Echoes**, onde narrativas não pedem licença pra existir  
@@ -55,3 +57,5 @@ Aceito bugs, teorias da conspiração, convites para devs noturnos e diálogos e
     <img src="https://files.catbox.moe/77226d.gif" width=200 align="right" />
 </a>
 -->
+
+
