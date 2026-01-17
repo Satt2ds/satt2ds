@@ -1,6 +1,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satt2ds&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
-[![🇧🇷 Versão em Português](https://img.shields.io/badge/lang-pt--br-green)](./README.md) 
 [![🇺🇸 English](https://img.shields.io/badge/lang-en-blue)](./README.en.md) 
 
 
@@ -12,7 +11,7 @@
 
 ## 🧬 𝘲𝘶𝘦 𝘵𝘢𝘭 𝘶𝘮 𝘱𝘰𝘶𝘤𝘰 𝘥𝘦 𝘢𝘣𝘴𝘶𝘳𝘥𝘰 𝘱𝘳𝘢 𝘤𝘰𝘮𝘦𝘤̧𝘢𝘳?
 🌷 **Pronomes:** *She / Her* 
-🥼 Cientista errante em transição constante entre moléculas e códigos  
+🥼 Em transição constante entre moléculas e códigos  
 🧠 Exploradora de caminhos neuronais, realidades aumentadas e paradoxos não documentados  
 🎮 Criadora de mundos em **Wave Echoes**, onde narrativas não pedem licença pra existir  
 🌌 Viciada em sistemas complexos, caos organizado e interfaces que sabem dançar no escuro
@@ -34,19 +33,7 @@
 - `Wave Echoes` 🜸  
   > Sobrevivência, simulação, e histórias que se escrevem sozinhas  
   > (Storyteller procedural inspirado em **RimWorld**)
-
 - `Dotfiles` ⚙️  
-  > Uma aventura épica contra o caos configuracional (spoiler: o caos tá ganhando)
-
-- Organização de assets e metadados  
-  > A obsessão visual finalmente tem uma função prática (｡•́︿•̀｡)
-
-━━━━━━━━━━━━━━━━━━━━━
-
-## ☕ 𝘴𝘪𝘯𝘢𝘪𝘴 𝘥𝘦 𝘧𝘶𝘮𝘢𝘤̧𝘢? 𝘴𝘪𝘮, 𝘧𝘢𝘤̧𝘢 𝘪𝘴𝘴𝘰.
-
-Me chama por aqui ou nos cantos escuros da web.  
-Aceito bugs, teorias da conspiração, convites para devs noturnos e diálogos estranhos sobre a vida.  
 
 ━━━━━━━━━━━━━━━━━━━━━
 
